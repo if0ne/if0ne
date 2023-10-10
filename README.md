@@ -44,6 +44,11 @@ I'm **Pavel Agafonov**, a student of the [School of game development](https://it
 
 - ML Researcher, RSREU, May 2022 - Jan 2023
 
+## 🧠 Education
+
+- Bachelor of Software Engineering, RSREU, 2019 - 2023
+- Master of School of game development, ITMO University, 2023 - Present
+
 ## 📧 Contacts
 
 - Email: pavel.agafonov.al@gmail.com
