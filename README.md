@@ -41,7 +41,7 @@ I'm **Pavel Agafonov**, a student of the [School of game development](https://it
 ![Docker](https://img.shields.io/badge/Docker-0fa3b1?logo=Docker&style=for-the-badge&logoColor=white)
 
 ## 💼 Experience
-
+- Software Developer, PExpert, Oct 2023 - Present
 - ML Researcher, RSREU, May 2022 - Jan 2023
 
 ## 🧠 Education
