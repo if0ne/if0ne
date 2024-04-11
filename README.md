@@ -23,10 +23,11 @@ I'm **Pavel Agafonov**, a student of the [School of game development](https://it
 ### 📦 Frameworks, Libraries and Crates
 
 ![Vulkan](https://img.shields.io/badge/Vulkan-9b2226?logo=vulkan&style=for-the-badge&logoColor=white)
+![DirectX 11](https://img.shields.io/badge/DirectX11-19E57F?logo=dx11&style=for-the-badge&logoColor=black)
 ![gRPC](https://img.shields.io/badge/gRPC-0a9396?logo=grpc&style=for-the-badge&logoColor=white)
 ![React](https://img.shields.io/badge/React-94d2bd?logo=React&style=for-the-badge&logoColor=black)
 ![Tokio](https://img.shields.io/badge/Tokio-e9d8a6?logo=Tokio&style=for-the-badge&logoColor=black)
-![Actix](https://img.shields.io/badge/Actix-ee9b00?logo=ee9b00&style=for-the-badge&logoColor=white)
+![Actix](https://img.shields.io/badge/Actix-ee9b00?logo=Actix&style=for-the-badge&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-ca6702?logo=keras&style=for-the-badge&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/scikitlearn-bb3e03?logo=scikitlearn&style=for-the-badge&logoColor=white)
 
@@ -46,8 +47,8 @@ I'm **Pavel Agafonov**, a student of the [School of game development](https://it
 
 ## 🧠 Education
 
-- Bachelor of Software Engineering, RSREU, 2019 - 2023
 - Master of School of game development, ITMO University, 2023 - Present
+- Bachelor of Software Engineering, RSREU, 2019 - 2023
 
 ## 📧 Contacts
 
