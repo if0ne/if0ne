@@ -23,7 +23,7 @@ I'm **Pavel Agafonov**, a student of the [School of game development](https://it
 ### 📦 Frameworks, Libraries and Crates
 
 ![Vulkan](https://img.shields.io/badge/Vulkan-9b2226?logo=vulkan&style=for-the-badge&logoColor=white)
-![DirectX 11](https://img.shields.io/badge/DirectX11-3DA639?logo=dx11&style=for-the-badge&logoColor=black)
+![DirectX 12](https://img.shields.io/badge/DirectX12-3DA639?logo=dx12&style=for-the-badge&logoColor=black)
 ![gRPC](https://img.shields.io/badge/gRPC-0a9396?logo=grpc&style=for-the-badge&logoColor=white)
 ![React](https://img.shields.io/badge/React-94d2bd?logo=React&style=for-the-badge&logoColor=black)
 ![Tokio](https://img.shields.io/badge/Tokio-e9d8a6?logo=Tokio&style=for-the-badge&logoColor=black)
